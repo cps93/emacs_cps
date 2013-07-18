@@ -1,0 +1,43 @@
+cd /run/media/cps/
+ls
+cd DFD1-2E3F/
+ls
+cd ivan/ivan/
+ls
+ls
+cp Documents/* ~/Documents/
+cp -R  Documents/* ~/Documents/
+cd
+sudo yum install lynx
+ls
+cd Downloads/
+cd template-html5/
+ls
+cd ..
+mv template-html5/ ~/Documents/
+cd
+cd Documents/
+ls
+clear
+ls
+cd template-html5/
+ls
+unzip Escape-velocity-\ Html-designcart.org.zip 
+ls
+rm -rf LICENSE.txt README.txt css images/ js/ left-sidebar.html no-sidebar.html right-sidebar.html 
+ls
+rm index.html 
+mkdir  Escape-velocity
+unzip Escape-velocity-\ Html-designcart.org.zip -d Escape-velocity/
+ls
+rm -rf Escape-velocity-\ Html-designcart.org.zip 
+mkdir codester\ -\ designcart
+unzip codester - designcart.org.zip -d codester\ -\ designcart/
+ls
+firefox index.html 
+firefox index.html 
+firefox 9-Formatting.html 
+sudo su
+ls
+mv * jquery-videos/
+ls
